@@ -24,6 +24,7 @@ The symbols closely resemble the PigPen cipher, a well-known substitution system
 
 ## Using the PigPen Decoder on DCODE
 Click on each Symbol in their Decoder (leaving out the . and / for now)
+
 <img width="441" height="258" alt="image" src="https://github.com/user-attachments/assets/52c9f904-0d3b-4dde-b121-c8c4ea264865" />
 
 Click DECRYPT, to reveal thedecoded text on the left
